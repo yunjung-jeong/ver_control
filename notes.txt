@@ -1,0 +1,6 @@
+git init -b main   without -b it was master
+
+git config user.email without --global is only for this repo
+
+git checkout -b name = make branch and go there
+main did not move so merge was fast forward. no merge commit
